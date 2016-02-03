@@ -6,5 +6,5 @@ module.exports = function () {
     require('../app/models/smile.server.model');
 
 
-    return db;
+    //return db;
 };
